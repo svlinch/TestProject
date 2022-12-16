@@ -1,0 +1,31 @@
+{
+	"_models":
+	[
+		{
+			"_id": 0,
+			"_duration": 2,
+			"_onContinueParameterChange":
+			{
+				"_sign": false,
+				"_changeAmount": 1,
+				"_applyType": 0
+			}
+		},
+		{
+			"_id": 1,
+			"_duration": 3,
+			"_onEndParametersChange":
+			{
+				"_sign": false,
+				"_changeAmount": 1000,
+				"_applyType": 1
+			},
+			"_earlyEndCondition":
+			{
+				"_checkType": 1,
+				"_isHealth": false,
+				"_numToCompare": 1
+			}
+		}
+	]
+}

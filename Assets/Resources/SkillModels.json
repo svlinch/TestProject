@@ -1,0 +1,74 @@
+{
+	"_models":
+	[
+		{
+			"_id": 0,
+			"_self": false,
+			"_parameterChanges":
+			[
+				{
+					"_sign": false,
+					"_changeAmount": 3,
+					"_applyType": 2
+				}
+			]
+		},
+		{
+			"_id": 1,
+			"_self": true,
+			"_parameterChanges":
+			[
+				{
+					"_sign": true,
+					"_changeAmount": 1,
+					"_applyType": 0
+				}
+			],
+			"_effectChanges":
+			[
+				{
+					"_id": 0,
+					"_add": false
+				}
+			]
+		},
+		{
+			"_id": 2,
+			"_self": false,
+			"_parameterChanges":
+			[
+				{
+					"_sign": false,
+					"_changeAmount": 1,
+					"_applyType": 2
+				}
+			],
+			"_effectChanges":
+			[
+				{
+					"_id": 0,
+					"_add": true
+				}
+			]
+		},
+		{
+			"_id": 3,
+			"_self": true,
+			"_parameterChanges":
+			[
+				{
+					"_sign": true,
+					"_changeAmount": 5,
+					"_applyType": 1
+				}
+			],
+			"_effectChanges":
+			[
+				{
+					"_id": 1,
+					"_add": true
+				}
+			]
+		}
+	]
+}

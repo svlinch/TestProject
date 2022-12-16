@@ -1,0 +1,13 @@
+{
+	"_models":
+	[
+		{
+			"_maxHealth": 30,
+			"_availableSkills": [0,1,2,3]
+		},
+		{
+			"_maxHealth": 30,
+			"_availableSkills": [0,2]
+		}
+	]
+}
